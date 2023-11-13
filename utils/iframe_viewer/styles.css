@@ -1,0 +1,20 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #0d1117;
+}
+
+.iframe-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#miIframe {
+    min-width: 100%; 
+    min-height: 100%; 
+    align-self: center; 
+    border: none; 
+}
